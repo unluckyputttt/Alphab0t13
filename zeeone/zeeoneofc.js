@@ -243,12 +243,9 @@ ${numberik} ${prefix}realistic text|text2
 ${numberik} ${prefix}space3d text|text2
 ${numberik} ${prefix}gtiktok text|text2
 ${numberik} ${prefix}stone text|text2
-${numberik} ${prefix}marvel text|text2
-${numberik} ${prefix}marvel2 text|text2
-${numberik} ${prefix}pornhub text|text2
+${numberik} ${prefix}marvel 
 ${numberik} ${prefix}avengers text|text2
 ${numberik} ${prefix}metalr text|text2
-${numberik} ${prefix}metalg text|text2
 ${numberik} ${prefix}metalg2 text|text2
 ${numberik} ${prefix}halloween2 text|text2
 ${numberik} ${prefix}lion text|text2
